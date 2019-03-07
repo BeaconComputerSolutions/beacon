@@ -2312,7 +2312,7 @@ body {
 .cid-rjI3MTCvVm {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #c1c1c1;
+  background-color: #767676;
 }
 .cid-rjI3MTCvVm .title {
   margin-bottom: 2rem;
@@ -2832,7 +2832,7 @@ body {
 .cid-rjIshjwzcU {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #c1c1c1;
+  background-color: #767676;
 }
 .cid-rjIshjwzcU .mbr-section-subtitle {
   color: #232323;
@@ -2868,6 +2868,12 @@ body {
 }
 .cid-rjIshjwzcU .team-item .item-caption {
   background: #cccccc;
+}
+.cid-rjIshjwzcU H2 {
+  color: #232323;
+}
+.cid-rjIshjwzcU .item-name {
+  color: #232323;
 }
 .cid-rjDR1SPyxF {
   padding-top: 15px;
@@ -3374,7 +3380,7 @@ body {
 .cid-rjItx2Qkbl {
   padding-top: 30px;
   padding-bottom: 30px;
-  background-color: #cccccc;
+  background-color: #767676;
 }
 .cid-rjItx2Qkbl .mbr-iconfont {
   font-size: 48px;
@@ -3951,7 +3957,7 @@ body {
 .cid-rjYGOLAR70 {
   padding-top: 15px;
   padding-bottom: 0px;
-  background-color: #c1c1c1;
+  background-color: #767676;
 }
 .cid-rjYGOLAR70 .mbr-section-subtitle {
   color: #767676;
@@ -3962,7 +3968,7 @@ body {
 .cid-rjYGqZmwge {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-color: #c1c1c1;
+  background-color: #767676;
 }
 .cid-rjYGqZmwge .pricing {
   padding: 3.3rem;
