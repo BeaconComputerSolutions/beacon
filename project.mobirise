@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beacon Computer Solutions",
-    "currentPage": "index.html",
+    "currentPage": "about.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -38,7 +38,7 @@
         "url": "https://fonts.googleapis.com/css?family=Acme:400"
       }
     ],
-    "uniqCompNum": 24,
+    "uniqCompNum": 26,
     "versionPublish": "4.9.5",
     "screenshot": "screenshot.png",
     "favicon": "",
