@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beacon Computer Solutions",
-    "currentPage": "design.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -4431,6 +4431,9 @@
             },
             "textarea.form-control": {
               "min-height": "188px"
+            },
+            "H2": {
+              "text-align": "center"
             }
           },
           "_name": "form1",
@@ -4553,8 +4556,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/logo-one-hundred-web-410x410.png",
-                "thumb": "@PROJECT_PATH@/assets/images/logo-one-hundred-web-410x410-410x410.png",
+                "image": "@PROJECT_PATH@/assets/images/fast-eddy-billiards-web-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/fast-eddy-billiards-web-410x410-410x410.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4592,19 +4595,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/marstons-home-inspections-web-410x410.png",
-                "thumb": "@PROJECT_PATH@/assets/images/marstons-home-inspections-web-410x410-410x410.png",
-                "alt": "",
-                "title": "",
-                "customStyle1": "display-7",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/greyhound-grill-web-410x410.png",
                 "thumb": "@PROJECT_PATH@/assets/images/greyhound-grill-web-410x410-410x410.png",
                 "alt": "",
@@ -4618,8 +4608,21 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/domains4u-web-410x410.png",
-                "thumb": "@PROJECT_PATH@/assets/images/domains4u-web-410x410-410x410.png",
+                "image": "@PROJECT_PATH@/assets/images/tradewins-enterprises-web-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/tradewins-enterprises-web-410x410-410x410.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/bobuck-enterprises-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bobuck-enterprises-410x410-410x410.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
@@ -4631,8 +4634,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/tradewins-enterprises-web-410x410.png",
-                "thumb": "@PROJECT_PATH@/assets/images/tradewins-enterprises-web-410x410-410x410.png",
+                "image": "@PROJECT_PATH@/assets/images/marstons-home-inspections-web-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/marstons-home-inspections-web-410x410-410x410.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
