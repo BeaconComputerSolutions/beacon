@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Beacon Computer Solutions",
-    "currentPage": "index.html",
+    "currentPage": "logo.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3311,6 +3311,58 @@
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "image": "@PROJECT_PATH@/assets/images/bobuck-studios-410x410.png",
                 "thumb": "@PROJECT_PATH@/assets/images/bobuck-studios-410x410-410x410.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/whole-world-products-web-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/whole-world-products-web-410x410-410x410.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/family-business-solutions-web-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/family-business-solutions-web-410x410-410x410.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/domains4u-web-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/domains4u-web-410x410-410x410.png",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/dr-poopin-scoopin-web-410x410.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dr-poopin-scoopin-web-410x410-410x410.png",
                 "alt": "",
                 "title": "",
                 "customStyle1": "display-7",
