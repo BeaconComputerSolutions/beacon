@@ -4568,6 +4568,52 @@ body {
 .cid-rl7ep8wdHg .card-img {
   color: #465052;
 }
+.cid-rlnVtXdYrW {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-rlnVtXdYrW .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-rlnVo9PFDA {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-rlnVo9PFDA .pricing {
+  padding: 3.3rem;
+  color: #767676;
+  background-color: #fff;
+}
+@media (max-width: 767px) {
+  .cid-rlnVo9PFDA .pricing {
+    padding: 1.5rem;
+  }
+}
+.cid-rlnVo9PFDA .plan-header,
+.cid-rlnVo9PFDA .plan-body {
+  background-color: #fff;
+}
+.cid-rlnVo9PFDA .plan-title {
+  margin-top: 1.4rem;
+}
+.cid-rlnVo9PFDA .price-figure {
+  font-weight: 700;
+  color: #232323;
+}
+@media (max-width: 550px) {
+  .cid-rlnVo9PFDA .price-figure {
+    font-size: 4.25rem;
+  }
+}
+.cid-rlnVo9PFDA .price-value {
+  font-weight: 700;
+  vertical-align: top;
+}
+.cid-rlnVo9PFDA hr {
+  margin: 2rem 0;
+}
 .cid-rlccDcoD8f {
   padding-top: 15px;
   padding-bottom: 0px;
