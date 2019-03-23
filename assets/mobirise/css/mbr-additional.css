@@ -4024,13 +4024,28 @@ body {
 .cid-rl0TqCS7Uh textarea.form-control {
   min-height: 188px;
 }
-.cid-rkUSUzsfjs {
+.cid-rlzCqZGItY {
   padding-top: 30px;
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
-.cid-rkUSUzsfjs .mbr-section-subtitle {
-  color: #767676;
+.cid-rlzCqZGItY .line {
+  background-color: #505050;
+  color: #505050;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-rlzCqZGItY .section-text {
+  padding: 2rem 0;
+}
+.cid-rlzCqZGItY .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-rlzCqZGItY .inner-container {
+    width: 100% !important;
+  }
 }
 .cid-rkUw5pA2Wp {
   padding-top: 0px;
